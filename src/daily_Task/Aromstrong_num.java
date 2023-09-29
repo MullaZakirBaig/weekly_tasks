@@ -11,7 +11,7 @@ public class Aromstrong_num {
 		// 153,370,371,407
 		int num = sc.nextInt(), num1 = num, reminder = 0;
 		int rem = 0;
-		double result = 0;
+		// double result = 0;
 		int res = 0;
 
 		int ar[] = new int[3];
