@@ -9,7 +9,7 @@ public class Array_indexchange {
 
 		Scanner sc = new Scanner(System.in);
 		int k[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-//         index--- 0  1  2  3  4  5  6
+//         index---         0  1  2  3  4  5  6   7 8   9
 
 		System.out.println("enter the which number remove in array list");
 		int j = sc.nextInt();
